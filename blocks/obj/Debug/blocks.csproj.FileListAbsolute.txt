@@ -1,0 +1,147 @@
+c:\users\pawel\documents\visual studio 2012\Projects\blocks\blocks\bin\Debug\blocks.exe.config
+c:\users\pawel\documents\visual studio 2012\Projects\blocks\blocks\bin\Debug\blocks.exe
+c:\users\pawel\documents\visual studio 2012\Projects\blocks\blocks\bin\Debug\blocks.pdb
+c:\users\pawel\documents\visual studio 2012\Projects\blocks\blocks\obj\Debug\blocks.csprojResolveAssemblyReference.cache
+c:\users\pawel\documents\visual studio 2012\Projects\blocks\blocks\obj\Debug\blocks.Form1.resources
+c:\users\pawel\documents\visual studio 2012\Projects\blocks\blocks\obj\Debug\blocks.Properties.Resources.resources
+c:\users\pawel\documents\visual studio 2012\Projects\blocks\blocks\obj\Debug\blocks.csproj.GenerateResource.Cache
+c:\users\pawel\documents\visual studio 2012\Projects\blocks\blocks\obj\Debug\blocks.exe
+c:\users\pawel\documents\visual studio 2012\Projects\blocks\blocks\obj\Debug\blocks.pdb
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks2\blocks\bin\Debug\blocks.exe.config
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks2\blocks\obj\Debug\blocks.exe
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks2\blocks\obj\Debug\blocks.pdb
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks2\blocks\bin\Debug\blocks.exe
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks2\blocks\bin\Debug\blocks.pdb
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks2\blocks\obj\Debug\blocks.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks2\blocks\obj\Debug\blocks.Form1.resources
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks2\blocks\obj\Debug\blocks.Properties.Resources.resources
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks2\blocks\obj\Debug\blocks.csproj.GenerateResource.Cache
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks3\blocks\bin\Debug\blocks.exe.config
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks3\blocks\obj\Debug\blocks.exe
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks3\blocks\obj\Debug\blocks.pdb
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks3\blocks\obj\Debug\blocks.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks3\blocks\obj\Debug\blocks.Form1.resources
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks3\blocks\obj\Debug\blocks.Properties.Resources.resources
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks3\blocks\obj\Debug\blocks.csproj.GenerateResource.Cache
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks3\blocks\bin\Debug\blocks.exe
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks3\blocks\bin\Debug\blocks.pdb
+C:\Users\Pawel\Desktop\blocks4\blocks\bin\Debug\blocks.exe.config
+C:\Users\Pawel\Desktop\blocks4\blocks\obj\Debug\blocks.exe
+C:\Users\Pawel\Desktop\blocks4\blocks\obj\Debug\blocks.pdb
+C:\Users\Pawel\Desktop\blocks4\blocks\bin\Debug\blocks.exe
+C:\Users\Pawel\Desktop\blocks4\blocks\bin\Debug\blocks.pdb
+C:\Users\Pawel\Desktop\blocks4\blocks\obj\Debug\blocks.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Desktop\blocks4\blocks\obj\Debug\blocks.Properties.Resources.resources
+C:\Users\Pawel\Desktop\blocks4\blocks\obj\Debug\blocks.csproj.GenerateResource.Cache
+C:\Users\Pawel\Desktop\blocks4\blocks\obj\Debug\blocks.Notes.resources
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks5\blocks\bin\Debug\blocks.exe.config
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks5\blocks\obj\Debug\blocks.exe
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks5\blocks\obj\Debug\blocks.pdb
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks5\blocks\bin\Debug\blocks.exe
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks5\blocks\bin\Debug\blocks.pdb
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks5\blocks\obj\Debug\blocks.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks5\blocks\obj\Debug\blocks.Notes.resources
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks5\blocks\obj\Debug\blocks.Properties.Resources.resources
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\blocks5\blocks\obj\Debug\blocks.csproj.GenerateResource.Cache
+C:\Users\Pawel\Desktop\blocks5\blocks\bin\Debug\blocks.exe.config
+C:\Users\Pawel\Desktop\blocks5\blocks\obj\Debug\blocks.exe
+C:\Users\Pawel\Desktop\blocks5\blocks\obj\Debug\blocks.pdb
+C:\Users\Pawel\Desktop\blocks5\blocks\obj\Debug\blocks.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Desktop\blocks5\blocks\obj\Debug\blocks.Notes.resources
+C:\Users\Pawel\Desktop\blocks5\blocks\obj\Debug\blocks.Properties.Resources.resources
+C:\Users\Pawel\Desktop\blocks5\blocks\obj\Debug\blocks.csproj.GenerateResource.Cache
+C:\Users\Pawel\Desktop\blocks5\blocks\bin\Debug\blocks.exe
+C:\Users\Pawel\Desktop\blocks5\blocks\bin\Debug\blocks.pdb
+C:\Users\Pawel\Desktop\blocks6\blocks\bin\Debug\blocks.exe.config
+C:\Users\Pawel\Desktop\blocks6\blocks\obj\Debug\blocks.exe
+C:\Users\Pawel\Desktop\blocks6\blocks\obj\Debug\blocks.pdb
+C:\Users\Pawel\Desktop\blocks6\blocks\bin\Debug\blocks.exe
+C:\Users\Pawel\Desktop\blocks6\blocks\bin\Debug\blocks.pdb
+C:\Users\Pawel\Desktop\blocks6\blocks\obj\Debug\blocks.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Desktop\blocks6\blocks\obj\Debug\blocks.Notes.resources
+C:\Users\Pawel\Desktop\blocks6\blocks\obj\Debug\blocks.Properties.Resources.resources
+C:\Users\Pawel\Desktop\blocks6\blocks\obj\Debug\blocks.csproj.GenerateResource.Cache
+C:\Users\Pawel\Desktop\blocks6\blocks\obj\Debug\blocks.Restore.resources
+C:\Users\Pawel\Desktop\blocks7\blocks\bin\Debug\blocks.exe.config
+C:\Users\Pawel\Desktop\blocks7\blocks\obj\Debug\blocks.exe
+C:\Users\Pawel\Desktop\blocks7\blocks\obj\Debug\blocks.pdb
+C:\Users\Pawel\Desktop\blocks7\blocks\bin\Debug\blocks.exe
+C:\Users\Pawel\Desktop\blocks7\blocks\bin\Debug\blocks.pdb
+C:\Users\Pawel\Desktop\blocks7\blocks\obj\Debug\blocks.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Desktop\blocks7\blocks\obj\Debug\blocks.Notes.resources
+C:\Users\Pawel\Desktop\blocks7\blocks\obj\Debug\blocks.Properties.Resources.resources
+C:\Users\Pawel\Desktop\blocks7\blocks\obj\Debug\blocks.Restore.resources
+C:\Users\Pawel\Desktop\blocks7\blocks\obj\Debug\blocks.csproj.GenerateResource.Cache
+C:\Users\pandrzejczyk\Desktop\it\blocks7\blocks\bin\Debug\blocks.exe.config
+C:\Users\pandrzejczyk\Desktop\it\blocks7\blocks\obj\Debug\blocks.exe
+C:\Users\pandrzejczyk\Desktop\it\blocks7\blocks\obj\Debug\blocks.pdb
+C:\Users\pandrzejczyk\Desktop\it\blocks7\blocks\bin\Debug\blocks.exe
+C:\Users\pandrzejczyk\Desktop\it\blocks7\blocks\bin\Debug\blocks.pdb
+C:\Users\pandrzejczyk\Desktop\it\blocks7\blocks\obj\Debug\blocks.csprojResolveAssemblyReference.cache
+C:\Users\pandrzejczyk\Desktop\it\blocks7\blocks\obj\Debug\blocks.Notes.resources
+C:\Users\pandrzejczyk\Desktop\it\blocks7\blocks\obj\Debug\blocks.Properties.Resources.resources
+C:\Users\pandrzejczyk\Desktop\it\blocks7\blocks\obj\Debug\blocks.Restore.resources
+C:\Users\pandrzejczyk\Desktop\it\blocks7\blocks\obj\Debug\blocks.csproj.GenerateResource.Cache
+C:\Users\Pawel\Desktop\bfdvd\blocks\bin\Debug\blocks.exe.config
+C:\Users\Pawel\Desktop\bfdvd\blocks\obj\Debug\blocks.exe
+C:\Users\Pawel\Desktop\bfdvd\blocks\obj\Debug\blocks.pdb
+C:\Users\Pawel\Desktop\bfdvd\blocks\bin\Debug\blocks.exe
+C:\Users\Pawel\Desktop\bfdvd\blocks\bin\Debug\blocks.pdb
+C:\Users\Pawel\Desktop\bfdvd\blocks\obj\Debug\blocks.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Desktop\bfdvd\blocks\obj\Debug\blocks.Notes.resources
+C:\Users\Pawel\Desktop\bfdvd\blocks\obj\Debug\blocks.Properties.Resources.resources
+C:\Users\Pawel\Desktop\bfdvd\blocks\obj\Debug\blocks.Restore.resources
+C:\Users\Pawel\Desktop\bfdvd\blocks\obj\Debug\blocks.csproj.GenerateResource.Cache
+C:\Users\Pawel\Desktop\blocks8\blocks\bin\Debug\blocks.exe.config
+C:\Users\Pawel\Desktop\blocks8\blocks\obj\Debug\blocks.exe
+C:\Users\Pawel\Desktop\blocks8\blocks\obj\Debug\blocks.pdb
+C:\Users\Pawel\Desktop\blocks8\blocks\bin\Debug\blocks.exe
+C:\Users\Pawel\Desktop\blocks8\blocks\bin\Debug\blocks.pdb
+C:\Users\Pawel\Desktop\blocks8\blocks\obj\Debug\blocks.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Desktop\blocks8\blocks\obj\Debug\blocks.Notes.resources
+C:\Users\Pawel\Desktop\blocks8\blocks\obj\Debug\blocks.Properties.Resources.resources
+C:\Users\Pawel\Desktop\blocks8\blocks\obj\Debug\blocks.Restore.resources
+C:\Users\Pawel\Desktop\blocks8\blocks\obj\Debug\blocks.csproj.GenerateResource.Cache
+C:\Users\pandrzejczyk\Desktop\it\blocks8\blocks\bin\Debug\blocks.exe.config
+C:\Users\pandrzejczyk\Desktop\it\blocks8\blocks\obj\Debug\blocks.exe
+C:\Users\pandrzejczyk\Desktop\it\blocks8\blocks\obj\Debug\blocks.pdb
+C:\Users\pandrzejczyk\Desktop\it\blocks8\blocks\bin\Debug\blocks.exe
+C:\Users\pandrzejczyk\Desktop\it\blocks8\blocks\bin\Debug\blocks.pdb
+C:\Users\pandrzejczyk\Desktop\it\blocks8\blocks\obj\Debug\blocks.csprojResolveAssemblyReference.cache
+C:\Users\pandrzejczyk\Desktop\it\blocks8\blocks\obj\Debug\blocks.Notes.resources
+C:\Users\pandrzejczyk\Desktop\it\blocks8\blocks\obj\Debug\blocks.Properties.Resources.resources
+C:\Users\pandrzejczyk\Desktop\it\blocks8\blocks\obj\Debug\blocks.Restore.resources
+C:\Users\pandrzejczyk\Desktop\it\blocks8\blocks\obj\Debug\blocks.csproj.GenerateResource.Cache
+C:\Users\pandrzejczyk\Desktop\blocks9\blocks\bin\Debug\blocks.exe.config
+C:\Users\pandrzejczyk\Desktop\blocks9\blocks\obj\Debug\blocks.exe
+C:\Users\pandrzejczyk\Desktop\blocks9\blocks\obj\Debug\blocks.pdb
+C:\Users\pandrzejczyk\Desktop\blocks9\blocks\bin\Debug\blocks.exe
+C:\Users\pandrzejczyk\Desktop\blocks9\blocks\bin\Debug\blocks.pdb
+C:\Users\pandrzejczyk\Desktop\blocks9\blocks\obj\Debug\blocks.csprojResolveAssemblyReference.cache
+C:\Users\pandrzejczyk\Desktop\blocks9\blocks\obj\Debug\blocks.Notes.resources
+C:\Users\pandrzejczyk\Desktop\blocks9\blocks\obj\Debug\blocks.Properties.Resources.resources
+C:\Users\pandrzejczyk\Desktop\blocks9\blocks\obj\Debug\blocks.Restore.resources
+C:\Users\pandrzejczyk\Desktop\blocks9\blocks\obj\Debug\blocks.csproj.GenerateResource.Cache
+C:\Users\Pawel\Desktop\blocks9\blocks\bin\Debug\blocks.exe.config
+C:\Users\Pawel\Desktop\blocks9\blocks\obj\Debug\blocks.exe
+C:\Users\Pawel\Desktop\blocks9\blocks\obj\Debug\blocks.pdb
+C:\Users\Pawel\Desktop\blocks9\blocks\bin\Debug\blocks.exe
+C:\Users\Pawel\Desktop\blocks9\blocks\bin\Debug\blocks.pdb
+C:\Users\Pawel\Desktop\blocks9\blocks\obj\Debug\blocks.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Desktop\blocks9\blocks\obj\Debug\blocks.Notes.resources
+C:\Users\Pawel\Desktop\blocks9\blocks\obj\Debug\blocks.Properties.Resources.resources
+C:\Users\Pawel\Desktop\blocks9\blocks\obj\Debug\blocks.Restore.resources
+C:\Users\Pawel\Desktop\blocks9\blocks\obj\Debug\blocks.csproj.GenerateResource.Cache
+C:\Users\Pawel\Desktop\blocks9\blocks\obj\Debug\blocks.LicenseInput.resources
+C:\Users\pandrzejczyk\Desktop\blocks9\blocks\obj\Debug\blocks.LicenseInput.resources
+C:\Users\pandrzejczyk\Desktop\IT\blocks9\blocks\bin\Debug\blocks.exe.config
+C:\Users\pandrzejczyk\Desktop\IT\blocks9\blocks\obj\Debug\blocks.exe
+C:\Users\pandrzejczyk\Desktop\IT\blocks9\blocks\obj\Debug\blocks.pdb
+C:\Users\pandrzejczyk\Desktop\IT\blocks9\blocks\bin\Debug\blocks.exe
+C:\Users\pandrzejczyk\Desktop\IT\blocks9\blocks\bin\Debug\blocks.pdb
+C:\Users\pandrzejczyk\Desktop\IT\blocks9\blocks\obj\Debug\blocks.csprojResolveAssemblyReference.cache
+C:\Users\pandrzejczyk\Desktop\IT\blocks9\blocks\obj\Debug\blocks.Notes.resources
+C:\Users\pandrzejczyk\Desktop\IT\blocks9\blocks\obj\Debug\blocks.LicenseInput.resources
+C:\Users\pandrzejczyk\Desktop\IT\blocks9\blocks\obj\Debug\blocks.Properties.Resources.resources
+C:\Users\pandrzejczyk\Desktop\IT\blocks9\blocks\obj\Debug\blocks.Restore.resources
+C:\Users\pandrzejczyk\Desktop\IT\blocks9\blocks\obj\Debug\blocks.csproj.GenerateResource.Cache

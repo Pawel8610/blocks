@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<notes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Note NoteID="0" panelTOP="173" panelLEFT="444" panelWIDTH="255" panelHEIGHT="150" panelCOLOR="Yellow" panelNAME="New note0" DATE="" Tabindex="0" Tabname="Nowy0">Your note...</Note>
+  <Note NoteID="1" panelTOP="30" panelLEFT="95" panelWIDTH="820" panelHEIGHT="396" panelCOLOR="Yellow" panelNAME="How to sync a complete Enterprise PDM file vault archive for the initial replication1" DATE="" Tabindex="0" Tabname="Nowy0">How to sync a complete Enterprise PDM file vault archive for the initial replication
+These instructions are intended to help set up the initial file vault replication on another archive server for an existing vault that already contains large amount of files. 
+
+The processes involves making a 1:1 ”snapshot” copy of the complete original file vault archive using hard drive backup or similar and then synchronize the replication information in the file vault database so that each replicated server has the same archive file content. 
+
+You could for example use it to copy the existing archives to a removable drive and ship it to the remote location to avoid having to replicate all existing files.
+
+Considerations
+During the vault archive copy, NO clients may modify or add new files to the file vault.
+This method will copy the complete archive, if you just want to replicate bits of the vault you are recommended to set up a replication schedule instead and select the vault folders that should replicate.
+It is not possible to use the script if parts of the vault have already been replicated to the new server – if so you need to remove the existing replication and set it up again.
+Make a SQL backup of the file vault database before running the SQL script.
+It is extremely important that the SQL script is run directly after the archive files have been copied and the files match – no additional changes may be performed by users until the script completes.
+This script is only for PDMWorks Enterprise 2008 or newer file vaults.
+If the new replicated server is in a remote office and you plan to copy the archives to a removable media and ship it to the remote office – make sure that the SQL script is run directly after the files have been copied.  Once users start making new versions of files in the vault, the copied archives will be out of sync again and if the script was not run, you would have to redo the copy process. 
+If you are shipping the media to a remote location, the clients attached to the new replicated server should not work in the vault until the media have arrived and the archive files have been copied over to the new server. If they start working in the vault on the replicated server, mismatches will be introduced.
+
+Scenario
+Original archive server A (STOCKHOLM1) has a file vault archive with existing files.
+New archive server B (LPT-TOR) should have a replicated synced copy of server A’s files.
+
+Instructions
+Install archive server on server B (make note of where the file vault archive root folder is placed). 
+
+Set up replication for the file vault between server A and server B.  An “empty” replicated archive folder structure will be created under the root folder on archive server B (this is where replicated file archives will be stored). At this point, the archives only exist on server A.NOTE! Do not create any new files on archive server B as these might be overwritten in the next steps. Also, do not start a scheduled replication.
+Prevent users from connecting to the archive server on server A and making any archive changes (i.e. creating new files or versions) by stopping the archive server service for example.
+
+Make a SQL backup of the file vault database (as a precaution before running the script below).
+
+“Backup” (copy) the complete file vault archive from server A (i.e. all the archive folders 0-F). If unsure where the archive folders on server A are located, check the registry key for current paths: HKEY_LOCAL_MACHINE\SOFTWARE\SolidWorks\Applications\PDMWorks Enterprise\ArchiveServer\Vaults\VAULTNAME\ArchiveTable.
+“Restore” (paste) the copied archives over the empty folder structure on server B. (Note that if you plan to ship the archives to server B if it is in a remote location, you could instead copy the complete archive to a backup-media such as external hard drive or DVD – just ensure it is a complete copy of all archive files).
+
+When the all the files from server A has been copied to server B (or to transport media) and the copied content match 1:1, open SQL management studio on the SQL server hosting the file vault. Select the file vault database and load the “ReplicationSync_2008.sql” script.  Before executing the script that syncs the replicated servers, update the source server entry to the name of “original” archive server, i.e. server A, and the destination server entry to the name of the “replicated” archive server, i.e. server B.Note that the server names must match the names found in the table “ArchiveServers”
+
+Run the script. The replication information in the file vault database will now be “synced” so that it registers in the database that all archive files on server A also exist on server B. The archive status dialog should show that all archive files are replicated.
+
+The archives are now fully synced. Start the archive server service. Any additional files added will be replicated using on-demand or schedules replication.Note. If you did not have access to restore the archives to server B in step 6 (i.e. you copied the archives to some other media) – you can let the users connect and work on archive server A as long as you have run the script at that point to sync the database that the copied content matches the archives.Preferably do not wait too long to restore the files to server B.  You should also not let users work with server B until the archives have been restored. Also do not activate any replication schedules until the archives are restored.
+
+
+
+
+
+
+
+
+
+
+	            
+Page  PAGE 1 of  NUMPAGES 5
+
+
+
+
+
+
+
+
+</Note>
+</notes>

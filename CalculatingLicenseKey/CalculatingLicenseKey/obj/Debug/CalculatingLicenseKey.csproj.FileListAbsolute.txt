@@ -1,0 +1,19 @@
+c:\users\pawel\documents\visual studio 2012\Projects\CalculatingLicenseKey\CalculatingLicenseKey\bin\Debug\CalculatingLicenseKey.exe.config
+c:\users\pawel\documents\visual studio 2012\Projects\CalculatingLicenseKey\CalculatingLicenseKey\bin\Debug\CalculatingLicenseKey.exe
+c:\users\pawel\documents\visual studio 2012\Projects\CalculatingLicenseKey\CalculatingLicenseKey\bin\Debug\CalculatingLicenseKey.pdb
+c:\users\pawel\documents\visual studio 2012\Projects\CalculatingLicenseKey\CalculatingLicenseKey\obj\Debug\CalculatingLicenseKey.Form1.resources
+c:\users\pawel\documents\visual studio 2012\Projects\CalculatingLicenseKey\CalculatingLicenseKey\obj\Debug\CalculatingLicenseKey.Properties.Resources.resources
+c:\users\pawel\documents\visual studio 2012\Projects\CalculatingLicenseKey\CalculatingLicenseKey\obj\Debug\CalculatingLicenseKey.csproj.GenerateResource.Cache
+c:\users\pawel\documents\visual studio 2012\Projects\CalculatingLicenseKey\CalculatingLicenseKey\obj\Debug\CalculatingLicenseKey.exe
+c:\users\pawel\documents\visual studio 2012\Projects\CalculatingLicenseKey\CalculatingLicenseKey\obj\Debug\CalculatingLicenseKey.pdb
+C:\Users\Pawel\Desktop\blocks9\CalculatingLicenseKey\CalculatingLicenseKey\bin\Debug\CalculatingLicenseKey.exe.config
+C:\Users\Pawel\Desktop\blocks9\CalculatingLicenseKey\CalculatingLicenseKey\obj\Debug\CalculatingLicenseKey.exe
+C:\Users\Pawel\Desktop\blocks9\CalculatingLicenseKey\CalculatingLicenseKey\obj\Debug\CalculatingLicenseKey.pdb
+C:\Users\Pawel\Desktop\blocks9\CalculatingLicenseKey\CalculatingLicenseKey\bin\Debug\CalculatingLicenseKey.exe
+C:\Users\Pawel\Desktop\blocks9\CalculatingLicenseKey\CalculatingLicenseKey\bin\Debug\CalculatingLicenseKey.pdb
+C:\Users\Pawel\Desktop\blocks9\CalculatingLicenseKey\CalculatingLicenseKey\obj\Debug\CalculatingLicenseKey.Form1.resources
+C:\Users\Pawel\Desktop\blocks9\CalculatingLicenseKey\CalculatingLicenseKey\obj\Debug\CalculatingLicenseKey.Properties.Resources.resources
+C:\Users\Pawel\Desktop\blocks9\CalculatingLicenseKey\CalculatingLicenseKey\obj\Debug\CalculatingLicenseKey.csproj.GenerateResource.Cache
+C:\Users\pandrzejczyk\Desktop\IT\blocks9\CalculatingLicenseKey\CalculatingLicenseKey\bin\Debug\CalculatingLicenseKey.exe.config
+C:\Users\pandrzejczyk\Desktop\IT\blocks9\CalculatingLicenseKey\CalculatingLicenseKey\obj\Debug\CalculatingLicenseKey.exe
+C:\Users\pandrzejczyk\Desktop\IT\blocks9\CalculatingLicenseKey\CalculatingLicenseKey\obj\Debug\CalculatingLicenseKey.pdb
