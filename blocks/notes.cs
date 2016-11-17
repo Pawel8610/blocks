@@ -7,7 +7,7 @@ namespace blocks
         
         private string note;
 
-        public string Note//metada zapisująca/odczytująca pole background
+        public string Note
         {
             get { return note; }
             set { note = value; }
